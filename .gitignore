@@ -1,0 +1,18 @@
+node_modules/
+dist/
+build/
+.env
+*.log
+.DS_Store
+coverage/
+.vscode/
+.idea/
+
+# Backend specific
+backend/node_modules/
+backend/.env
+backend/dist/
+
+# Frontend specific
+public/*.js
+public/*.map
